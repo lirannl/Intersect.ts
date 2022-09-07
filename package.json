@@ -1,0 +1,19 @@
+{
+  "name": "intersect.ts",
+  "description": "Programatically intersect an arbitrary number of types, and a partial intersection type. \nSupports types which are normally incompatible due to a discriminant property.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/lirannl/Intersect.ts.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Liran Piade",
+    "email": "liranpiade@gmail.com"
+  },
+  "types": "index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": ">=4.1"
+  }
+}
